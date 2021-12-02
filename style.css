@@ -1,7 +1,17 @@
 * {
-  background-color: aqua;
+  background-color: lightred;
   margin: 0px, 0px, 0px, 0px;
   
 }
 
-<i class="fal fa-camera"></i>
+div1 {
+  
+  width: 100px;
+  height: 100px;
+  backgorund-color: red;
+  text-align: center;
+  margin-left: 2px;
+  
+  
+}
+
