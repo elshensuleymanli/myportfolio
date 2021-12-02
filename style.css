@@ -1,5 +1,5 @@
 * {
-  background-color: lightred;
+  background-color: black;
   margin: 0px, 0px, 0px, 0px;
   
 }
@@ -11,6 +11,7 @@ div1 {
   backgorund-color: red;
   text-align: center;
   margin-left: 2px;
+  border: solid;
   
   
 }
