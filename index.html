@@ -32,6 +32,13 @@
   document.getElementById("saat").innerHTML = saat;
   document.getElementById("deqiqe").innerHTML = deqiqe;
   document.getElementById("saniye").innerHTML = saniye++;
+    
+    if(Number(document.getElementById("saniye").innerText) == 59) {
+  
+    deqiqe++;
+    saniye = 0;
+  
+  }
   
   
     
