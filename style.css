@@ -1,11 +1,11 @@
-* {
-  background-color: black;
+body {
+  background-color: yellow;
   margin: 0px, 0px, 0px, 0px;
   
 }
 
 #div1 {
-  
+
   width: 100px;
   height: 100px;
   backgorund-color: red;
@@ -15,4 +15,33 @@
   
   
 }
+
+}
+
+#div2 {
+
+  width: 100px;
+  height: 100px;
+  backgorund-color: red;
+  text-align: center;
+  margin-left: 2px;
+  border: solid;
+  
+  
+}
+
+}
+
+#div3 {
+
+  width: 100px;
+  height: 100px;
+  backgorund-color: red;
+  text-align: center;
+  margin-left: 2px;
+  border: solid;
+  
+  
+}
+
 
