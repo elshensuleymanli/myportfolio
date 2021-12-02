@@ -27,11 +27,20 @@
   
   setInterval(function () {
     
-  },1000);
+  
   
   document.getElementById("saat").innerHTML = saat;
   document.getElementById("deqiqe").innerHTML = deqiqe;
   document.getElementById("saniye").innerHTML = saniye++;
+  
+  If(Number(document.getElementById("saniye").innerText) == 59) {
+  
+    deqiqe++;
+    saniye = 0;
+  
+  }
+    
+    },1000);
   
   
   
