@@ -46,3 +46,8 @@ h1 {
   
 }
 
+#container {
+  height: 300px;
+  width: 306px;
+  background-color: blue;
+}
