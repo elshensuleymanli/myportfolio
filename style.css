@@ -1,6 +1,6 @@
 body {
-  background-color: yellow;
-  margin: 0px, 0px, 0px, 0px;
+  background-color: green;
+  
   
 }
 
@@ -8,13 +8,7 @@ body {
 
   width: 100px;
   height: 100px;
-  backgorund-color: red;
-  text-align: center;
-  margin-left: 2px;
-  border: solid;
-  float: left;
-  border-size: 1px;
-  
+  background-color: white;
 
 }
 
@@ -22,25 +16,16 @@ body {
 
   width: 100px;
   height: 100px;
-  backgorund-color: red;
-  text-align: center;
-  margin-left: 2px;
-  border: solid;
-  float: left;
-  border-size: 1px;
-  
+  background-color: white;
+ 
 }
 
 #div3 {
 
   width: 100px;
   height: 100px;
-  backgorund-color: red;
-  text-align: center;
-  margin-left: 2px;
-  border: solid;
-  float: left;
-  border-size: 1px;
+  background-color: white;
+  
 }
 
 h1 { 
@@ -50,9 +35,7 @@ h1 {
 }
 
 #container {
-  margin-left: 600px;
-  height: 105px;
-  width: 325px;
-  background-color: blue;
-  position: center;
+ width: 40%;
+ height: auto;
+  
 }
