@@ -96,7 +96,7 @@ cursor: pointer;
 }
 
 .qutu {
-    background-image: url("source/gdby-baskenf.jpg");
+    background-image: url(./gdby-baskenf.jpg");
     background-attachment: absolute;
     background-size: 100% 100%;
     background-repeat: no-repeat;
