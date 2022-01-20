@@ -2,7 +2,7 @@
 
 body {
     font-family: "lato",sans-serif;
-    background-image: url("source/itl.cat_whatsapp-background-wallpaper_27655.png");
+    background-image: url("itl.cat_whatsapp-background-wallpaper_27655.png");
     color:bisque;
     height: 100%;
     width: 100%;
@@ -96,7 +96,7 @@ cursor: pointer;
 }
 
 .qutu {
-    background-image: url(./gdby-baskenf.jpg");
+    background-image: url("gdby-baskenf.jpg");
     background-attachment: absolute;
     background-size: 100% 100%;
     background-repeat: no-repeat;
@@ -104,28 +104,28 @@ cursor: pointer;
 }
 
 .qutu2 {
-    background-image: url("source/gdby-krp.jpg");
+    background-image: url("gdby-krp.jpg");
     background-attachment: absolute;
     background-size: 100% 100%;
     background-repeat: no-repeat;
 }
 
 .qutu3 {
-    background-image: url("source/gdby-knd.jpg");
+    background-image: url("gdby-knd.jpg");
     background-attachment: absolute;
     background-size: 100% 100%;
     background-repeat: no-repeat;
 }
 
 .qutu4 {
-    background-image: url("source/gdby-qalajpeg.jpeg");
+    background-image: url("gdby-qalajpeg.jpeg");
     background-attachment: absolute;
     background-size: 100% 100%;
     background-repeat: no-repeat;
 }
 
 .qutu5 {
-    background-image: url("source/gdby-krp.jpg");
+    background-image: url("gdby-krp.jpg");
     background-attachment: absolute;
     background-size: 100% 100%;
     background-repeat: no-repeat;
