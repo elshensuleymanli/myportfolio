@@ -1,0 +1,155 @@
+
+
+body {
+    font-family: "lato",sans-serif;
+    background-image: url("source/itl.cat_whatsapp-background-wallpaper_27655.png");
+    color:bisque;
+    height: 100%;
+    width: 100%;
+
+}
+
+.side {
+
+    position:fixed;
+    width:0;
+    height:100%;
+    background: #111;
+    padding-top:60px;
+    overflow-x: hidden;
+    transition:0.5s;
+
+}
+
+.side a {
+    text-decoration: none;
+    display:block;
+    font-size:25px;
+    color:#818181;
+    padding: 8px 8px 8px 32px;
+    transition: 0.5s;
+}
+
+.side a:hover {
+
+color:#f1f1f1;
+
+}
+
+.side .menuClose{
+
+    position:absolute;
+    top:0;
+    right:25px;
+    font-size:36px;
+
+}
+
+#menu {
+
+    transition: margin-left .5s;
+    padding:16px;
+}
+
+.btn {
+
+    position: absolute;
+    border: solid 1px orangered;
+    width: 80px;
+    height: 50px;
+    margin-top: 120px;
+    margin-left: 100px;
+    color: white;
+    background-color: black;
+    opacity: 60%;
+    font-size: 16px;
+    font-weight: bold;
+    text-align: center;
+    align-items: center;
+
+}
+
+
+#qutu {
+
+    height: 200px;
+    width: 300px;
+    margin-top:20px;
+    margin-right: 20px;
+    float: left;
+    opacity: 1;
+    transition: all 0.4s;
+    transform: scale(1);
+    border-radius: 5%;
+
+
+}
+
+#qutu:hover {
+
+opacity: 1;
+transform: scale(1.1);
+cursor: pointer;
+
+
+
+}
+
+.qutu {
+    background-image: url("source/gdby-baskenf.jpg");
+    background-attachment: absolute;
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    
+}
+
+.qutu2 {
+    background-image: url("source/gdby-krp.jpg");
+    background-attachment: absolute;
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+}
+
+.qutu3 {
+    background-image: url("source/gdby-knd.jpg");
+    background-attachment: absolute;
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+}
+
+.qutu4 {
+    background-image: url("source/gdby-qalajpeg.jpeg");
+    background-attachment: absolute;
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+}
+
+.qutu5 {
+    background-image: url("source/gdby-krp.jpg");
+    background-attachment: absolute;
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+}
+
+
+#menuClick {
+
+    padding-top: 50px;
+}
+
+.h1 {
+
+    font-size: 50px;
+    text-align: center;
+    color:whitesmoke;
+    text-decoration: violet;
+}
+
+#cell, #mail {
+    text-decoration: none;
+    color:whitesmoke;
+    font-size: 80px;
+    text-align: center;
+    align-items: center;
+    font-weight: bold;
+}
