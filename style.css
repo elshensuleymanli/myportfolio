@@ -26,7 +26,7 @@
 .logo {
     width: 80px;
     height: 75px;
-    background-image: url("images/djgamid.jpg");
+    background-image: url("djgamid.jpg");
     background-repeat: no-repeat;
     background-size: 75px;
     background-position: right;
@@ -89,7 +89,7 @@
 #banner {
     width: auto;
     height: 855px;
-    background-image: url("images/pexel2.jpg");
+    background-image: url("pexel2.jpg");
     background-repeat: no-repeat;
     background-size: 100% 855px;
     text-align: center;
@@ -98,7 +98,7 @@
 #banner2 {
     width: auto;
     height: 855px;
-    background-image: url("images/pexel5.jpg");
+    background-image: url("pexel5.jpg");
     background-repeat: no-repeat;
     background-size: 100% 855px;
     text-align: center;
@@ -108,7 +108,7 @@
 #banner3 {
     width: auto;
     height: 855px;
-    background-image: url("images/party.jpg");
+    background-image: url("party.jpg");
     background-repeat: no-repeat;
     background-size: 100% 855px;
     text-align: center;
@@ -261,7 +261,7 @@ h2 {
 }
 
 #infoBanner {
-    background-image: url("images/1200x630cw.png");
+    background-image: url("1200x630cw.png");
     width: auto;
     height: 855px;
     background-repeat: no-repeat;
